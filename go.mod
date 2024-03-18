@@ -1,4 +1,4 @@
-module github.com/Dreamacro/protobytes
+module github.com/whenjs/protobytes
 
 go 1.20
 
